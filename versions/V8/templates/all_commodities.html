@@ -1,0 +1,70 @@
+{% include "header.html" %}
+
+<!-- Page Header-->
+<header
+  class="masthead"
+  style="background-image: url('../static/assets/img/types-of-commodities.png');"
+>
+  <div class="container position-relative px-4 px-lg-5">
+    <div class="row gx-4 gx-lg-5 justify-content-center">
+      <div class="col-md-10 col-lg-8 col-xl-7">
+        <div class="site-heading">
+          <h1>Commodities</h1>
+          <span class="subheading">List of all available to scrape commodities.</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- Main Content-->
+<div class="container px-4 px-lg-5">
+  <div class="row gx-4 gx-lg-5 justify-content-center">
+    <div class="col-md-10 col-lg-10 col-xl-10">
+
+    {% if vis %}
+        <h3>
+            Unnecessary data cleaned.
+        </h3>
+    {% else %}
+    <div class="container justify-content-center">
+        <button>
+            <a href="{{ url_for('get_all_commodities_clean') }}">
+                Remove Null values
+            </a>
+        </button>
+    </div>
+    {% endif %}
+
+      <div class="ui container">
+        
+        <table class="ui celled table">
+            <thead>
+                <tr>
+                    <th>Commodity Name</th>
+                    <th>Monthly Avg</th>
+                    <th>1 Month Change</th>
+                    <th>12 Month Change</th>
+                    <th>Year to Date Change</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for commodity in commodities %}
+                <tr>
+                    <td><a href="{{ url_for('commodity', name=commodity['C_Name']) }}">{{ commodity['C_Name'] }}</a></td>
+                    <td>{{ commodity['Monthly_Avg'] }}</td>
+                    <td>{{ commodity['1_Month_Change'] }}</td>
+                    <td>{{ commodity['12_Month_Change'] }}</td>
+                    <td>{{ commodity['Year_Date_Change'] }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+      
+    </div>
+  </div>
+</div>
+
+{% include "footer.html" %}

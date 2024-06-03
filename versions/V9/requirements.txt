@@ -1,0 +1,8 @@
+pymongo
+flask
+flask_bootstrap
+bootstrap_flask
+selenium
+bs4
+requests
+pandas
