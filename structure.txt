@@ -1,0 +1,44 @@
+|- College Project/
+    |- analysis/
+    |   |- clean_homepage.py
+    |
+    |- database/
+    |   |- clean_homepage.py
+    |   |- createDB_commodity.py
+    |   |- createDB_home.py
+    |
+    |- files/
+    |   |- all_commodities.csv
+    |   |- clean_all_commodities.csv
+    |
+    |- scrapers/
+    |   |- commodity_scraper.py
+    |   |- currency.py
+    |   |- homepage_scrapeer.py
+    |   |- max_years.py
+    |
+    |- static/
+    |   |- assets/
+    |   |   |- img/
+    |   |   |   |- bg.png
+    |   |   |- visuals/
+    |   |   |   |- png files
+    |   |   |- favicon.ico
+    |   |- css/
+    |   |   |- styles.css
+    |   |- js/
+    |   |   |- scripts.js
+    |
+    |- templates/
+    |   |- about.html
+    |   |- all_commodities.html
+    |   |- commodity.html
+    |   |- contactt.html
+    |   |- footer.html
+    |   |- header.html
+    |   |- index.html
+    |
+    |- main.py
+    |- README.md
+    |- requirements.txt
+    |- structure.txt

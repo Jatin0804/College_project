@@ -34,7 +34,7 @@ def savedata(csv_file):
 def createHomeDB_clean():
     try:
         with open('files/cleaned_commodities.csv', 'r', encoding='utf-8') as csv_file:
-            if "commodities" in db.list_collection_names():
+            if "clean_commodities" in db.list_collection_names():
                 return
             db.clean_commodities.drop()
             savedata(csv_file)

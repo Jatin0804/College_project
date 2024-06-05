@@ -6,8 +6,6 @@ from selenium.webdriver.chrome.options import Options
 from scrapers.max_years import get_max_years
 from scrapers.currency import currency_url
 
-# CONST_DATA = "HELLO"
-
 
 def com_scraper(name, url):
     chrome_options = Options()

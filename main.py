@@ -92,10 +92,6 @@ def about():
 def contact():
     return render_template("contact.html")
 
-@app.route("/search")
-def search():
-    return render_template("index.html")
-
 
 if __name__ == "__main__":
     app.run(debug=True, port=5001)
