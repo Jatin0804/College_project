@@ -1,0 +1,1763 @@
+[
+    {},
+    {
+        "Month": "Jan 1995",
+        "Price": "8,684.19",
+        "Change": "-"
+    },
+    {
+        "Month": "Feb 1995",
+        "Price": "8,801.50",
+        "Change": "1.35%"
+    },
+    {
+        "Month": "Mar 1995",
+        "Price": "9,059.69",
+        "Change": "2.93%"
+    },
+    {
+        "Month": "Apr 1995",
+        "Price": "8,843.04",
+        "Change": "-2.39%"
+    },
+    {
+        "Month": "May 1995",
+        "Price": "9,142.08",
+        "Change": "3.38%"
+    },
+    {
+        "Month": "Jun 1995",
+        "Price": "10,236.99",
+        "Change": "11.98%"
+    },
+    {
+        "Month": "Jul 1995",
+        "Price": "10,844.43",
+        "Change": "5.93%"
+    },
+    {
+        "Month": "Aug 1995",
+        "Price": "10,724.80",
+        "Change": "-1.10%"
+    },
+    {
+        "Month": "Sep 1995",
+        "Price": "11,966.18",
+        "Change": "11.57%"
+    },
+    {
+        "Month": "Oct 1995",
+        "Price": "13,223.04",
+        "Change": "10.50%"
+    },
+    {
+        "Month": "Nov 1995",
+        "Price": "11,831.40",
+        "Change": "-10.52%"
+    },
+    {
+        "Month": "Dec 1995",
+        "Price": "11,938.67",
+        "Change": "0.91%"
+    },
+    {
+        "Month": "Jan 1996",
+        "Price": "13,204.88",
+        "Change": "10.61%"
+    },
+    {
+        "Month": "Feb 1996",
+        "Price": "13,472.87",
+        "Change": "2.03%"
+    },
+    {
+        "Month": "Mar 1996",
+        "Price": "12,383.06",
+        "Change": "-8.09%"
+    },
+    {
+        "Month": "Apr 1996",
+        "Price": "11,203.16",
+        "Change": "-9.53%"
+    },
+    {
+        "Month": "May 1996",
+        "Price": "11,625.59",
+        "Change": "3.77%"
+    },
+    {
+        "Month": "Jun 1996",
+        "Price": "11,948.91",
+        "Change": "2.78%"
+    },
+    {
+        "Month": "Jul 1996",
+        "Price": "12,718.11",
+        "Change": "6.44%"
+    },
+    {
+        "Month": "Aug 1996",
+        "Price": "11,974.63",
+        "Change": "-5.85%"
+    },
+    {
+        "Month": "Sep 1996",
+        "Price": "11,734.06",
+        "Change": "-2.01%"
+    },
+    {
+        "Month": "Oct 1996",
+        "Price": "11,147.19",
+        "Change": "-5.00%"
+    },
+    {
+        "Month": "Nov 1996",
+        "Price": "11,256.94",
+        "Change": "0.98%"
+    },
+    {
+        "Month": "Dec 1996",
+        "Price": "11,439.60",
+        "Change": "1.62%"
+    },
+    {
+        "Month": "Jan 1997",
+        "Price": "12,770.57",
+        "Change": "11.63%"
+    },
+    {
+        "Month": "Feb 1997",
+        "Price": "12,453.31",
+        "Change": "-2.48%"
+    },
+    {
+        "Month": "Mar 1997",
+        "Price": "11,600.19",
+        "Change": "-6.85%"
+    },
+    {
+        "Month": "Apr 1997",
+        "Price": "10,906.90",
+        "Change": "-5.98%"
+    },
+    {
+        "Month": "May 1997",
+        "Price": "11,622.26",
+        "Change": "6.56%"
+    },
+    {
+        "Month": "Jun 1997",
+        "Price": "11,573.95",
+        "Change": "-0.42%"
+    },
+    {
+        "Month": "Jul 1997",
+        "Price": "11,435.55",
+        "Change": "-1.20%"
+    },
+    {
+        "Month": "Aug 1997",
+        "Price": "10,238.91",
+        "Change": "-10.46%"
+    },
+    {
+        "Month": "Sep 1997",
+        "Price": "9,853.96",
+        "Change": "-3.76%"
+    },
+    {
+        "Month": "Oct 1997",
+        "Price": "9,628.00",
+        "Change": "-2.29%"
+    },
+    {
+        "Month": "Nov 1997",
+        "Price": "9,381.04",
+        "Change": "-2.57%"
+    },
+    {
+        "Month": "Dec 1997",
+        "Price": "10,576.84",
+        "Change": "12.75%"
+    },
+    {
+        "Month": "Jan 1998",
+        "Price": "11,334.96",
+        "Change": "7.17%"
+    },
+    {
+        "Month": "Feb 1998",
+        "Price": "11,566.89",
+        "Change": "2.05%"
+    },
+    {
+        "Month": "Mar 1998",
+        "Price": "11,693.21",
+        "Change": "1.09%"
+    },
+    {
+        "Month": "Apr 1998",
+        "Price": "12,352.31",
+        "Change": "5.64%"
+    },
+    {
+        "Month": "May 1998",
+        "Price": "12,848.36",
+        "Change": "4.02%"
+    },
+    {
+        "Month": "Jun 1998",
+        "Price": "13,751.63",
+        "Change": "7.03%"
+    },
+    {
+        "Month": "Jul 1998",
+        "Price": "13,784.01",
+        "Change": "0.24%"
+    },
+    {
+        "Month": "Aug 1998",
+        "Price": "13,736.48",
+        "Change": "-0.34%"
+    },
+    {
+        "Month": "Sep 1998",
+        "Price": "13,659.84",
+        "Change": "-0.56%"
+    },
+    {
+        "Month": "Oct 1998",
+        "Price": "12,650.57",
+        "Change": "-7.39%"
+    },
+    {
+        "Month": "Nov 1998",
+        "Price": "11,441.83",
+        "Change": "-9.55%"
+    },
+    {
+        "Month": "Dec 1998",
+        "Price": "11,819.40",
+        "Change": "3.30%"
+    },
+    {
+        "Month": "Jan 1999",
+        "Price": "12,741.77",
+        "Change": "7.80%"
+    },
+    {
+        "Month": "Feb 1999",
+        "Price": "11,891.75",
+        "Change": "-6.67%"
+    },
+    {
+        "Month": "Mar 1999",
+        "Price": "10,872.27",
+        "Change": "-8.57%"
+    },
+    {
+        "Month": "Apr 1999",
+        "Price": "10,062.00",
+        "Change": "-7.45%"
+    },
+    {
+        "Month": "May 1999",
+        "Price": "10,446.80",
+        "Change": "3.82%"
+    },
+    {
+        "Month": "Jun 1999",
+        "Price": "10,948.24",
+        "Change": "4.80%"
+    },
+    {
+        "Month": "Jul 1999",
+        "Price": "11,211.17",
+        "Change": "2.40%"
+    },
+    {
+        "Month": "Aug 1999",
+        "Price": "10,626.19",
+        "Change": "-5.22%"
+    },
+    {
+        "Month": "Sep 1999",
+        "Price": "9,981.13",
+        "Change": "-6.07%"
+    },
+    {
+        "Month": "Oct 1999",
+        "Price": "9,429.56",
+        "Change": "-5.53%"
+    },
+    {
+        "Month": "Nov 1999",
+        "Price": "9,894.72",
+        "Change": "4.93%"
+    },
+    {
+        "Month": "Dec 1999",
+        "Price": "10,164.57",
+        "Change": "2.73%"
+    },
+    {
+        "Month": "Jan 2000",
+        "Price": "10,513.43",
+        "Change": "3.43%"
+    },
+    {
+        "Month": "Feb 2000",
+        "Price": "10,510.70",
+        "Change": "-0.03%"
+    },
+    {
+        "Month": "Mar 2000",
+        "Price": "9,840.12",
+        "Change": "-6.38%"
+    },
+    {
+        "Month": "Apr 2000",
+        "Price": "9,371.48",
+        "Change": "-4.76%"
+    },
+    {
+        "Month": "May 2000",
+        "Price": "8,732.53",
+        "Change": "-6.82%"
+    },
+    {
+        "Month": "Jun 2000",
+        "Price": "8,759.43",
+        "Change": "0.31%"
+    },
+    {
+        "Month": "Jul 2000",
+        "Price": "8,463.06",
+        "Change": "-3.38%"
+    },
+    {
+        "Month": "Aug 2000",
+        "Price": "8,521.52",
+        "Change": "0.69%"
+    },
+    {
+        "Month": "Sep 2000",
+        "Price": "8,214.13",
+        "Change": "-3.61%"
+    },
+    {
+        "Month": "Oct 2000",
+        "Price": "8,691.34",
+        "Change": "5.81%"
+    },
+    {
+        "Month": "Nov 2000",
+        "Price": "8,654.72",
+        "Change": "-0.42%"
+    },
+    {
+        "Month": "Dec 2000",
+        "Price": "8,613.79",
+        "Change": "-0.47%"
+    },
+    {
+        "Month": "Jan 2001",
+        "Price": "8,581.98",
+        "Change": "-0.37%"
+    },
+    {
+        "Month": "Feb 2001",
+        "Price": "8,582.74",
+        "Change": "0.01%"
+    },
+    {
+        "Month": "Mar 2001",
+        "Price": "8,158.59",
+        "Change": "-4.94%"
+    },
+    {
+        "Month": "Apr 2001",
+        "Price": "7,661.19",
+        "Change": "-6.10%"
+    },
+    {
+        "Month": "May 2001",
+        "Price": "7,709.92",
+        "Change": "0.64%"
+    },
+    {
+        "Month": "Jun 2001",
+        "Price": "7,896.88",
+        "Change": "2.43%"
+    },
+    {
+        "Month": "Jul 2001",
+        "Price": "7,985.82",
+        "Change": "1.13%"
+    },
+    {
+        "Month": "Aug 2001",
+        "Price": "7,929.00",
+        "Change": "-0.71%"
+    },
+    {
+        "Month": "Sep 2001",
+        "Price": "8,242.76",
+        "Change": "3.96%"
+    },
+    {
+        "Month": "Oct 2001",
+        "Price": "8,192.29",
+        "Change": "-0.61%"
+    },
+    {
+        "Month": "Nov 2001",
+        "Price": "8,327.54",
+        "Change": "1.65%"
+    },
+    {
+        "Month": "Dec 2001",
+        "Price": "8,592.97",
+        "Change": "3.19%"
+    },
+    {
+        "Month": "Jan 2002",
+        "Price": "9,268.37",
+        "Change": "7.86%"
+    },
+    {
+        "Month": "Feb 2002",
+        "Price": "9,510.91",
+        "Change": "2.62%"
+    },
+    {
+        "Month": "Mar 2002",
+        "Price": "9,211.76",
+        "Change": "-3.15%"
+    },
+    {
+        "Month": "Apr 2002",
+        "Price": "9,304.49",
+        "Change": "1.01%"
+    },
+    {
+        "Month": "May 2002",
+        "Price": "9,677.50",
+        "Change": "4.01%"
+    },
+    {
+        "Month": "Jun 2002",
+        "Price": "9,922.95",
+        "Change": "2.54%"
+    },
+    {
+        "Month": "Jul 2002",
+        "Price": "9,733.28",
+        "Change": "-1.91%"
+    },
+    {
+        "Month": "Aug 2002",
+        "Price": "9,248.23",
+        "Change": "-4.98%"
+    },
+    {
+        "Month": "Sep 2002",
+        "Price": "9,039.11",
+        "Change": "-2.26%"
+    },
+    {
+        "Month": "Oct 2002",
+        "Price": "9,008.81",
+        "Change": "-0.34%"
+    },
+    {
+        "Month": "Nov 2002",
+        "Price": "9,011.67",
+        "Change": "0.03%"
+    },
+    {
+        "Month": "Dec 2002",
+        "Price": "8,977.64",
+        "Change": "-0.38%"
+    },
+    {
+        "Month": "Jan 2003",
+        "Price": "9,621.95",
+        "Change": "7.18%"
+    },
+    {
+        "Month": "Feb 2003",
+        "Price": "9,487.49",
+        "Change": "-1.40%"
+    },
+    {
+        "Month": "Mar 2003",
+        "Price": "9,385.29",
+        "Change": "-1.08%"
+    },
+    {
+        "Month": "Apr 2003",
+        "Price": "9,238.61",
+        "Change": "-1.56%"
+    },
+    {
+        "Month": "May 2003",
+        "Price": "9,322.47",
+        "Change": "0.91%"
+    },
+    {
+        "Month": "Jun 2003",
+        "Price": "9,503.05",
+        "Change": "1.94%"
+    },
+    {
+        "Month": "Jul 2003",
+        "Price": "9,177.56",
+        "Change": "-3.43%"
+    },
+    {
+        "Month": "Aug 2003",
+        "Price": "8,957.42",
+        "Change": "-2.40%"
+    },
+    {
+        "Month": "Sep 2003",
+        "Price": "9,060.05",
+        "Change": "1.15%"
+    },
+    {
+        "Month": "Oct 2003",
+        "Price": "8,885.18",
+        "Change": "-1.93%"
+    },
+    {
+        "Month": "Nov 2003",
+        "Price": "8,803.57",
+        "Change": "-0.92%"
+    },
+    {
+        "Month": "Dec 2003",
+        "Price": "9,038.41",
+        "Change": "2.67%"
+    },
+    {
+        "Month": "Jan 2004",
+        "Price": "9,669.27",
+        "Change": "6.98%"
+    },
+    {
+        "Month": "Feb 2004",
+        "Price": "9,654.18",
+        "Change": "-0.16%"
+    },
+    {
+        "Month": "Mar 2004",
+        "Price": "10,704.51",
+        "Change": "10.88%"
+    },
+    {
+        "Month": "Apr 2004",
+        "Price": "10,576.95",
+        "Change": "-1.19%"
+    },
+    {
+        "Month": "May 2004",
+        "Price": "10,496.17",
+        "Change": "-0.76%"
+    },
+    {
+        "Month": "Jun 2004",
+        "Price": "10,423.14",
+        "Change": "-0.70%"
+    },
+    {
+        "Month": "Jul 2004",
+        "Price": "10,624.57",
+        "Change": "1.93%"
+    },
+    {
+        "Month": "Aug 2004",
+        "Price": "11,075.83",
+        "Change": "4.25%"
+    },
+    {
+        "Month": "Sep 2004",
+        "Price": "10,844.58",
+        "Change": "-2.09%"
+    },
+    {
+        "Month": "Oct 2004",
+        "Price": "11,171.22",
+        "Change": "3.01%"
+    },
+    {
+        "Month": "Nov 2004",
+        "Price": "11,693.09",
+        "Change": "4.67%"
+    },
+    {
+        "Month": "Dec 2004",
+        "Price": "12,237.56",
+        "Change": "4.66%"
+    },
+    {
+        "Month": "Jan 2005",
+        "Price": "12,558.21",
+        "Change": "2.62%"
+    },
+    {
+        "Month": "Feb 2005",
+        "Price": "12,666.33",
+        "Change": "0.86%"
+    },
+    {
+        "Month": "Mar 2005",
+        "Price": "12,790.25",
+        "Change": "0.98%"
+    },
+    {
+        "Month": "Apr 2005",
+        "Price": "13,002.06",
+        "Change": "1.66%"
+    },
+    {
+        "Month": "May 2005",
+        "Price": "12,777.78",
+        "Change": "-1.72%"
+    },
+    {
+        "Month": "Jun 2005",
+        "Price": "12,421.98",
+        "Change": "-2.78%"
+    },
+    {
+        "Month": "Jul 2005",
+        "Price": "12,048.97",
+        "Change": "-3.00%"
+    },
+    {
+        "Month": "Aug 2005",
+        "Price": "12,337.41",
+        "Change": "2.39%"
+    },
+    {
+        "Month": "Sep 2005",
+        "Price": "12,527.18",
+        "Change": "1.54%"
+    },
+    {
+        "Month": "Oct 2005",
+        "Price": "12,837.16",
+        "Change": "2.47%"
+    },
+    {
+        "Month": "Nov 2005",
+        "Price": "12,700.43",
+        "Change": "-1.07%"
+    },
+    {
+        "Month": "Dec 2005",
+        "Price": "12,807.10",
+        "Change": "0.84%"
+    },
+    {
+        "Month": "Jan 2006",
+        "Price": "12,931.06",
+        "Change": "0.97%"
+    },
+    {
+        "Month": "Feb 2006",
+        "Price": "13,365.81",
+        "Change": "3.36%"
+    },
+    {
+        "Month": "Mar 2006",
+        "Price": "13,498.31",
+        "Change": "0.99%"
+    },
+    {
+        "Month": "Apr 2006",
+        "Price": "13,585.96",
+        "Change": "0.65%"
+    },
+    {
+        "Month": "May 2006",
+        "Price": "13,986.00",
+        "Change": "2.94%"
+    },
+    {
+        "Month": "Jun 2006",
+        "Price": "14,392.33",
+        "Change": "2.91%"
+    },
+    {
+        "Month": "Jul 2006",
+        "Price": "14,652.28",
+        "Change": "1.81%"
+    },
+    {
+        "Month": "Aug 2006",
+        "Price": "14,551.38",
+        "Change": "-0.69%"
+    },
+    {
+        "Month": "Sep 2006",
+        "Price": "14,260.60",
+        "Change": "-2.00%"
+    },
+    {
+        "Month": "Oct 2006",
+        "Price": "13,686.00",
+        "Change": "-4.03%"
+    },
+    {
+        "Month": "Nov 2006",
+        "Price": "13,288.89",
+        "Change": "-2.90%"
+    },
+    {
+        "Month": "Dec 2006",
+        "Price": "13,613.52",
+        "Change": "2.44%"
+    },
+    {
+        "Month": "Jan 2007",
+        "Price": "13,878.25",
+        "Change": "1.94%"
+    },
+    {
+        "Month": "Feb 2007",
+        "Price": "13,911.14",
+        "Change": "0.24%"
+    },
+    {
+        "Month": "Mar 2007",
+        "Price": "14,029.61",
+        "Change": "0.85%"
+    },
+    {
+        "Month": "Apr 2007",
+        "Price": "13,340.81",
+        "Change": "-4.91%"
+    },
+    {
+        "Month": "May 2007",
+        "Price": "12,955.54",
+        "Change": "-2.89%"
+    },
+    {
+        "Month": "Jun 2007",
+        "Price": "13,176.32",
+        "Change": "1.70%"
+    },
+    {
+        "Month": "Jul 2007",
+        "Price": "13,288.90",
+        "Change": "0.85%"
+    },
+    {
+        "Month": "Aug 2007",
+        "Price": "13,367.77",
+        "Change": "0.59%"
+    },
+    {
+        "Month": "Sep 2007",
+        "Price": "13,110.50",
+        "Change": "-1.92%"
+    },
+    {
+        "Month": "Oct 2007",
+        "Price": "13,007.74",
+        "Change": "-0.78%"
+    },
+    {
+        "Month": "Nov 2007",
+        "Price": "13,488.48",
+        "Change": "3.70%"
+    },
+    {
+        "Month": "Dec 2007",
+        "Price": "14,224.83",
+        "Change": "5.46%"
+    },
+    {
+        "Month": "Jan 2008",
+        "Price": "14,788.40",
+        "Change": "3.96%"
+    },
+    {
+        "Month": "Feb 2008",
+        "Price": "18,464.30",
+        "Change": "24.86%"
+    },
+    {
+        "Month": "Mar 2008",
+        "Price": "23,971.86",
+        "Change": "29.83%"
+    },
+    {
+        "Month": "Apr 2008",
+        "Price": "36,307.71",
+        "Change": "51.46%"
+    },
+    {
+        "Month": "May 2008",
+        "Price": "37,988.78",
+        "Change": "4.63%"
+    },
+    {
+        "Month": "Jun 2008",
+        "Price": "32,414.74",
+        "Change": "-14.67%"
+    },
+    {
+        "Month": "Jul 2008",
+        "Price": "31,345.63",
+        "Change": "-3.30%"
+    },
+    {
+        "Month": "Aug 2008",
+        "Price": "29,778.16",
+        "Change": "-5.00%"
+    },
+    {
+        "Month": "Sep 2008",
+        "Price": "31,156.66",
+        "Change": "4.63%"
+    },
+    {
+        "Month": "Oct 2008",
+        "Price": "29,635.27",
+        "Change": "-4.88%"
+    },
+    {
+        "Month": "Nov 2008",
+        "Price": "27,049.84",
+        "Change": "-8.72%"
+    },
+    {
+        "Month": "Dec 2008",
+        "Price": "25,867.77",
+        "Change": "-4.37%"
+    },
+    {
+        "Month": "Jan 2009",
+        "Price": "28,327.20",
+        "Change": "9.51%"
+    },
+    {
+        "Month": "Feb 2009",
+        "Price": "29,078.03",
+        "Change": "2.65%"
+    },
+    {
+        "Month": "Mar 2009",
+        "Price": "30,159.58",
+        "Change": "3.72%"
+    },
+    {
+        "Month": "Apr 2009",
+        "Price": "27,522.62",
+        "Change": "-8.74%"
+    },
+    {
+        "Month": "May 2009",
+        "Price": "25,868.62",
+        "Change": "-6.01%"
+    },
+    {
+        "Month": "Jun 2009",
+        "Price": "27,445.95",
+        "Change": "6.10%"
+    },
+    {
+        "Month": "Jul 2009",
+        "Price": "27,746.42",
+        "Change": "1.09%"
+    },
+    {
+        "Month": "Aug 2009",
+        "Price": "25,427.85",
+        "Change": "-8.36%"
+    },
+    {
+        "Month": "Sep 2009",
+        "Price": "25,127.70",
+        "Change": "-1.18%"
+    },
+    {
+        "Month": "Oct 2009",
+        "Price": "23,033.48",
+        "Change": "-8.33%"
+    },
+    {
+        "Month": "Nov 2009",
+        "Price": "25,275.32",
+        "Change": "9.73%"
+    },
+    {
+        "Month": "Dec 2009",
+        "Price": "27,558.33",
+        "Change": "9.03%"
+    },
+    {
+        "Month": "Jan 2010",
+        "Price": "26,123.19",
+        "Change": "-5.21%"
+    },
+    {
+        "Month": "Feb 2010",
+        "Price": "24,784.30",
+        "Change": "-5.13%"
+    },
+    {
+        "Month": "Mar 2010",
+        "Price": "22,849.10",
+        "Change": "-7.81%"
+    },
+    {
+        "Month": "Apr 2010",
+        "Price": "20,736.51",
+        "Change": "-9.25%"
+    },
+    {
+        "Month": "May 2010",
+        "Price": "20,657.61",
+        "Change": "-0.38%"
+    },
+    {
+        "Month": "Jun 2010",
+        "Price": "20,488.40",
+        "Change": "-0.82%"
+    },
+    {
+        "Month": "Jul 2010",
+        "Price": "20,708.10",
+        "Change": "1.07%"
+    },
+    {
+        "Month": "Aug 2010",
+        "Price": "21,082.98",
+        "Change": "1.81%"
+    },
+    {
+        "Month": "Sep 2010",
+        "Price": "21,936.55",
+        "Change": "4.05%"
+    },
+    {
+        "Month": "Oct 2010",
+        "Price": "21,586.90",
+        "Change": "-1.59%"
+    },
+    {
+        "Month": "Nov 2010",
+        "Price": "23,089.25",
+        "Change": "6.96%"
+    },
+    {
+        "Month": "Dec 2010",
+        "Price": "24,029.88",
+        "Change": "4.07%"
+    },
+    {
+        "Month": "Jan 2011",
+        "Price": "23,454.56",
+        "Change": "-2.39%"
+    },
+    {
+        "Month": "Feb 2011",
+        "Price": "23,818.42",
+        "Change": "1.55%"
+    },
+    {
+        "Month": "Mar 2011",
+        "Price": "22,168.60",
+        "Change": "-6.93%"
+    },
+    {
+        "Month": "Apr 2011",
+        "Price": "21,493.78",
+        "Change": "-3.04%"
+    },
+    {
+        "Month": "May 2011",
+        "Price": "21,612.45",
+        "Change": "0.55%"
+    },
+    {
+        "Month": "Jun 2011",
+        "Price": "23,042.62",
+        "Change": "6.62%"
+    },
+    {
+        "Month": "Jul 2011",
+        "Price": "23,906.52",
+        "Change": "3.75%"
+    },
+    {
+        "Month": "Aug 2011",
+        "Price": "25,627.63",
+        "Change": "7.20%"
+    },
+    {
+        "Month": "Sep 2011",
+        "Price": "28,577.08",
+        "Change": "11.51%"
+    },
+    {
+        "Month": "Oct 2011",
+        "Price": "29,514.46",
+        "Change": "3.28%"
+    },
+    {
+        "Month": "Nov 2011",
+        "Price": "31,187.37",
+        "Change": "5.67%"
+    },
+    {
+        "Month": "Dec 2011",
+        "Price": "30,834.19",
+        "Change": "-1.13%"
+    },
+    {
+        "Month": "Jan 2012",
+        "Price": "27,765.23",
+        "Change": "-9.95%"
+    },
+    {
+        "Month": "Feb 2012",
+        "Price": "26,425.48",
+        "Change": "-4.83%"
+    },
+    {
+        "Month": "Mar 2012",
+        "Price": "27,577.00",
+        "Change": "4.36%"
+    },
+    {
+        "Month": "Apr 2012",
+        "Price": "28,375.28",
+        "Change": "2.89%"
+    },
+    {
+        "Month": "May 2012",
+        "Price": "32,629.37",
+        "Change": "14.99%"
+    },
+    {
+        "Month": "Jun 2012",
+        "Price": "33,618.00",
+        "Change": "3.03%"
+    },
+    {
+        "Month": "Jul 2012",
+        "Price": "31,858.33",
+        "Change": "-5.23%"
+    },
+    {
+        "Month": "Aug 2012",
+        "Price": "31,543.92",
+        "Change": "-0.99%"
+    },
+    {
+        "Month": "Sep 2012",
+        "Price": "30,730.08",
+        "Change": "-2.58%"
+    },
+    {
+        "Month": "Oct 2012",
+        "Price": "29,564.02",
+        "Change": "-3.79%"
+    },
+    {
+        "Month": "Nov 2012",
+        "Price": "30,602.11",
+        "Change": "3.51%"
+    },
+    {
+        "Month": "Dec 2012",
+        "Price": "30,464.95",
+        "Change": "-0.45%"
+    },
+    {
+        "Month": "Jan 2013",
+        "Price": "30,643.51",
+        "Change": "0.59%"
+    },
+    {
+        "Month": "Feb 2013",
+        "Price": "30,257.53",
+        "Change": "-1.26%"
+    },
+    {
+        "Month": "Mar 2013",
+        "Price": "30,402.80",
+        "Change": "0.48%"
+    },
+    {
+        "Month": "Apr 2013",
+        "Price": "30,287.27",
+        "Change": "-0.38%"
+    },
+    {
+        "Month": "May 2013",
+        "Price": "29,910.63",
+        "Change": "-1.24%"
+    },
+    {
+        "Month": "Jun 2013",
+        "Price": "30,578.75",
+        "Change": "2.23%"
+    },
+    {
+        "Month": "Jul 2013",
+        "Price": "30,427.73",
+        "Change": "-0.49%"
+    },
+    {
+        "Month": "Aug 2013",
+        "Price": "30,261.23",
+        "Change": "-0.55%"
+    },
+    {
+        "Month": "Sep 2013",
+        "Price": "28,277.99",
+        "Change": "-6.55%"
+    },
+    {
+        "Month": "Oct 2013",
+        "Price": "27,056.08",
+        "Change": "-4.32%"
+    },
+    {
+        "Month": "Nov 2013",
+        "Price": "27,466.36",
+        "Change": "1.52%"
+    },
+    {
+        "Month": "Dec 2013",
+        "Price": "27,938.56",
+        "Change": "1.72%"
+    },
+    {
+        "Month": "Jan 2014",
+        "Price": "27,960.82",
+        "Change": "0.08%"
+    },
+    {
+        "Month": "Feb 2014",
+        "Price": "28,588.55",
+        "Change": "2.25%"
+    },
+    {
+        "Month": "Mar 2014",
+        "Price": "25,728.06",
+        "Change": "-10.01%"
+    },
+    {
+        "Month": "Apr 2014",
+        "Price": "23,840.87",
+        "Change": "-7.34%"
+    },
+    {
+        "Month": "May 2014",
+        "Price": "23,025.00",
+        "Change": "-3.42%"
+    },
+    {
+        "Month": "Jun 2014",
+        "Price": "23,705.89",
+        "Change": "2.96%"
+    },
+    {
+        "Month": "Jul 2014",
+        "Price": "25,346.90",
+        "Change": "6.92%"
+    },
+    {
+        "Month": "Aug 2014",
+        "Price": "27,098.35",
+        "Change": "6.91%"
+    },
+    {
+        "Month": "Sep 2014",
+        "Price": "26,301.70",
+        "Change": "-2.94%"
+    },
+    {
+        "Month": "Oct 2014",
+        "Price": "26,256.96",
+        "Change": "-0.17%"
+    },
+    {
+        "Month": "Nov 2014",
+        "Price": "25,781.11",
+        "Change": "-1.81%"
+    },
+    {
+        "Month": "Dec 2014",
+        "Price": "26,213.17",
+        "Change": "1.68%"
+    },
+    {
+        "Month": "Jan 2015",
+        "Price": "26,096.85",
+        "Change": "-0.44%"
+    },
+    {
+        "Month": "Feb 2015",
+        "Price": "26,051.73",
+        "Change": "-0.17%"
+    },
+    {
+        "Month": "Mar 2015",
+        "Price": "25,604.43",
+        "Change": "-1.72%"
+    },
+    {
+        "Month": "Apr 2015",
+        "Price": "25,038.51",
+        "Change": "-2.21%"
+    },
+    {
+        "Month": "May 2015",
+        "Price": "24,311.68",
+        "Change": "-2.90%"
+    },
+    {
+        "Month": "Jun 2015",
+        "Price": "24,011.64",
+        "Change": "-1.23%"
+    },
+    {
+        "Month": "Jul 2015",
+        "Price": "24,949.16",
+        "Change": "3.90%"
+    },
+    {
+        "Month": "Aug 2015",
+        "Price": "24,271.98",
+        "Change": "-2.71%"
+    },
+    {
+        "Month": "Sep 2015",
+        "Price": "23,638.75",
+        "Change": "-2.61%"
+    },
+    {
+        "Month": "Oct 2015",
+        "Price": "24,273.15",
+        "Change": "2.68%"
+    },
+    {
+        "Month": "Nov 2015",
+        "Price": "24,306.55",
+        "Change": "0.14%"
+    },
+    {
+        "Month": "Dec 2015",
+        "Price": "24,174.17",
+        "Change": "-0.54%"
+    },
+    {
+        "Month": "Jan 2016",
+        "Price": "24,831.25",
+        "Change": "2.72%"
+    },
+    {
+        "Month": "Feb 2016",
+        "Price": "26,205.34",
+        "Change": "5.53%"
+    },
+    {
+        "Month": "Mar 2016",
+        "Price": "25,750.31",
+        "Change": "-1.74%"
+    },
+    {
+        "Month": "Apr 2016",
+        "Price": "26,255.46",
+        "Change": "1.96%"
+    },
+    {
+        "Month": "May 2016",
+        "Price": "28,961.69",
+        "Change": "10.31%"
+    },
+    {
+        "Month": "Jun 2016",
+        "Price": "29,671.20",
+        "Change": "2.45%"
+    },
+    {
+        "Month": "Jul 2016",
+        "Price": "29,709.82",
+        "Change": "0.13%"
+    },
+    {
+        "Month": "Aug 2016",
+        "Price": "27,779.09",
+        "Change": "-6.50%"
+    },
+    {
+        "Month": "Sep 2016",
+        "Price": "25,628.87",
+        "Change": "-7.74%"
+    },
+    {
+        "Month": "Oct 2016",
+        "Price": "24,633.42",
+        "Change": "-3.88%"
+    },
+    {
+        "Month": "Nov 2016",
+        "Price": "24,647.50",
+        "Change": "0.06%"
+    },
+    {
+        "Month": "Dec 2016",
+        "Price": "25,326.29",
+        "Change": "2.75%"
+    },
+    {
+        "Month": "Jan 2017",
+        "Price": "25,676.56",
+        "Change": "1.38%"
+    },
+    {
+        "Month": "Feb 2017",
+        "Price": "24,626.70",
+        "Change": "-4.09%"
+    },
+    {
+        "Month": "Mar 2017",
+        "Price": "24,388.67",
+        "Change": "-0.97%"
+    },
+    {
+        "Month": "Apr 2017",
+        "Price": "24,515.25",
+        "Change": "0.52%"
+    },
+    {
+        "Month": "May 2017",
+        "Price": "27,120.09",
+        "Change": "10.63%"
+    },
+    {
+        "Month": "Jun 2017",
+        "Price": "29,511.71",
+        "Change": "8.82%"
+    },
+    {
+        "Month": "Jul 2017",
+        "Price": "26,871.64",
+        "Change": "-8.95%"
+    },
+    {
+        "Month": "Aug 2017",
+        "Price": "25,138.60",
+        "Change": "-6.45%"
+    },
+    {
+        "Month": "Sep 2017",
+        "Price": "25,913.18",
+        "Change": "3.08%"
+    },
+    {
+        "Month": "Oct 2017",
+        "Price": "25,643.90",
+        "Change": "-1.04%"
+    },
+    {
+        "Month": "Nov 2017",
+        "Price": "26,078.74",
+        "Change": "1.70%"
+    },
+    {
+        "Month": "Dec 2017",
+        "Price": "26,082.38",
+        "Change": "0.01%"
+    },
+    {
+        "Month": "Jan 2018",
+        "Price": "28,130.78",
+        "Change": "7.85%"
+    },
+    {
+        "Month": "Feb 2018",
+        "Price": "27,358.88",
+        "Change": "-2.74%"
+    },
+    {
+        "Month": "Mar 2018",
+        "Price": "27,954.52",
+        "Change": "2.18%"
+    },
+    {
+        "Month": "Apr 2018",
+        "Price": "29,613.84",
+        "Change": "5.94%"
+    },
+    {
+        "Month": "May 2018",
+        "Price": "30,462.32",
+        "Change": "2.87%"
+    },
+    {
+        "Month": "Jun 2018",
+        "Price": "28,947.64",
+        "Change": "-4.97%"
+    },
+    {
+        "Month": "Jul 2018",
+        "Price": "27,343.03",
+        "Change": "-5.54%"
+    },
+    {
+        "Month": "Aug 2018",
+        "Price": "28,161.58",
+        "Change": "2.99%"
+    },
+    {
+        "Month": "Sep 2018",
+        "Price": "29,281.63",
+        "Change": "3.98%"
+    },
+    {
+        "Month": "Oct 2018",
+        "Price": "30,109.66",
+        "Change": "2.83%"
+    },
+    {
+        "Month": "Nov 2018",
+        "Price": "28,801.52",
+        "Change": "-4.34%"
+    },
+    {
+        "Month": "Dec 2018",
+        "Price": "28,615.95",
+        "Change": "-0.64%"
+    },
+    {
+        "Month": "Jan 2019",
+        "Price": "29,007.79",
+        "Change": "1.37%"
+    },
+    {
+        "Month": "Feb 2019",
+        "Price": "29,052.84",
+        "Change": "0.16%"
+    },
+    {
+        "Month": "Mar 2019",
+        "Price": "28,208.33",
+        "Change": "-2.91%"
+    },
+    {
+        "Month": "Apr 2019",
+        "Price": "28,673.52",
+        "Change": "1.65%"
+    },
+    {
+        "Month": "May 2019",
+        "Price": "28,543.84",
+        "Change": "-0.45%"
+    },
+    {
+        "Month": "Jun 2019",
+        "Price": "29,164.32",
+        "Change": "2.17%"
+    },
+    {
+        "Month": "Jul 2019",
+        "Price": "28,623.50",
+        "Change": "-1.85%"
+    },
+    {
+        "Month": "Aug 2019",
+        "Price": "30,592.65",
+        "Change": "6.88%"
+    },
+    {
+        "Month": "Sep 2019",
+        "Price": "30,459.47",
+        "Change": "-0.44%"
+    },
+    {
+        "Month": "Oct 2019",
+        "Price": "30,126.00",
+        "Change": "-1.09%"
+    },
+    {
+        "Month": "Nov 2019",
+        "Price": "30,071.64",
+        "Change": "-0.18%"
+    },
+    {
+        "Month": "Dec 2019",
+        "Price": "30,753.28",
+        "Change": "2.27%"
+    },
+    {
+        "Month": "Jan 2020",
+        "Price": "32,168.65",
+        "Change": "4.60%"
+    },
+    {
+        "Month": "Feb 2020",
+        "Price": "32,151.88",
+        "Change": "-0.05%"
+    },
+    {
+        "Month": "Mar 2020",
+        "Price": "36,712.20",
+        "Change": "14.18%"
+    },
+    {
+        "Month": "Apr 2020",
+        "Price": "42,970.73",
+        "Change": "17.05%"
+    },
+    {
+        "Month": "May 2020",
+        "Price": "38,586.54",
+        "Change": "-10.20%"
+    },
+    {
+        "Month": "Jun 2020",
+        "Price": "39,368.51",
+        "Change": "2.03%"
+    },
+    {
+        "Month": "Jul 2020",
+        "Price": "36,008.72",
+        "Change": "-8.53%"
+    },
+    {
+        "Month": "Aug 2020",
+        "Price": "37,709.32",
+        "Change": "4.72%"
+    },
+    {
+        "Month": "Sep 2020",
+        "Price": "37,263.92",
+        "Change": "-1.18%"
+    },
+    {
+        "Month": "Oct 2020",
+        "Price": "34,606.78",
+        "Change": "-7.13%"
+    },
+    {
+        "Month": "Nov 2020",
+        "Price": "36,316.92",
+        "Change": "4.94%"
+    },
+    {
+        "Month": "Dec 2020",
+        "Price": "38,302.08",
+        "Change": "5.47%"
+    },
+    {
+        "Month": "Jan 2021",
+        "Price": "39,843.59",
+        "Change": "4.02%"
+    },
+    {
+        "Month": "Feb 2021",
+        "Price": "40,530.48",
+        "Change": "1.72%"
+    },
+    {
+        "Month": "Mar 2021",
+        "Price": "38,216.22",
+        "Change": "-5.71%"
+    },
+    {
+        "Month": "Apr 2021",
+        "Price": "36,837.14",
+        "Change": "-3.61%"
+    },
+    {
+        "Month": "May 2021",
+        "Price": "36,165.59",
+        "Change": "-1.82%"
+    },
+    {
+        "Month": "Jun 2021",
+        "Price": "34,278.15",
+        "Change": "-5.22%"
+    },
+    {
+        "Month": "Jul 2021",
+        "Price": "30,851.69",
+        "Change": "-10.00%"
+    },
+    {
+        "Month": "Aug 2021",
+        "Price": "29,894.25",
+        "Change": "-3.10%"
+    },
+    {
+        "Month": "Sep 2021",
+        "Price": "29,446.01",
+        "Change": "-1.50%"
+    },
+    {
+        "Month": "Oct 2021",
+        "Price": "30,036.28",
+        "Change": "2.00%"
+    },
+    {
+        "Month": "Nov 2021",
+        "Price": "29,793.23",
+        "Change": "-0.81%"
+    },
+    {
+        "Month": "Dec 2021",
+        "Price": "30,215.71",
+        "Change": "1.42%"
+    },
+    {
+        "Month": "Jan 2022",
+        "Price": "31,789.44",
+        "Change": "5.21%"
+    },
+    {
+        "Month": "Feb 2022",
+        "Price": "32,038.75",
+        "Change": "0.78%"
+    },
+    {
+        "Month": "Mar 2022",
+        "Price": "32,175.17",
+        "Change": "0.43%"
+    },
+    {
+        "Month": "Apr 2022",
+        "Price": "32,834.34",
+        "Change": "2.05%"
+    },
+    {
+        "Month": "May 2022",
+        "Price": "35,871.45",
+        "Change": "9.25%"
+    },
+    {
+        "Month": "Jun 2022",
+        "Price": "34,666.77",
+        "Change": "-3.36%"
+    },
+    {
+        "Month": "Jul 2022",
+        "Price": "33,280.86",
+        "Change": "-4.00%"
+    },
+    {
+        "Month": "Aug 2022",
+        "Price": "34,288.23",
+        "Change": "3.03%"
+    },
+    {
+        "Month": "Sep 2022",
+        "Price": "35,228.72",
+        "Change": "2.74%"
+    },
+    {
+        "Month": "Oct 2022",
+        "Price": "35,485.46",
+        "Change": "0.73%"
+    },
+    {
+        "Month": "Nov 2022",
+        "Price": "36,004.19",
+        "Change": "1.46%"
+    },
+    {
+        "Month": "Dec 2022",
+        "Price": "38,462.74",
+        "Change": "6.83%"
+    },
+    {
+        "Month": "Jan 2023",
+        "Price": "42,336.61",
+        "Change": "10.07%"
+    },
+    {
+        "Month": "Feb 2023",
+        "Price": "40,641.29",
+        "Change": "-4.00%"
+    },
+    {
+        "Month": "Mar 2023",
+        "Price": "39,171.16",
+        "Change": "-3.62%"
+    },
+    {
+        "Month": "Apr 2023",
+        "Price": "41,092.41",
+        "Change": "4.90%"
+    },
+    {
+        "Month": "May 2023",
+        "Price": "41,989.83",
+        "Change": "2.18%"
+    },
+    {
+        "Month": "Jun 2023",
+        "Price": "42,276.60",
+        "Change": "0.68%"
+    },
+    {
+        "Month": "Jul 2023",
+        "Price": "44,950.70",
+        "Change": "6.33%"
+    },
+    {
+        "Month": "Aug 2023",
+        "Price": "52,568.72",
+        "Change": "16.95%"
+    },
+    {
+        "Month": "Sep 2023",
+        "Price": "51,496.28",
+        "Change": "-2.04%"
+    },
+    {
+        "Month": "Oct 2023",
+        "Price": "49,108.26",
+        "Change": "-4.64%"
+    },
+    {
+        "Month": "Nov 2023",
+        "Price": "49,807.93",
+        "Change": "1.42%"
+    },
+    {
+        "Month": "Dec 2023",
+        "Price": "53,644.79",
+        "Change": "7.70%"
+    },
+    {
+        "Month": "Jan 2024",
+        "Price": "54,866.50",
+        "Change": "2.28%"
+    },
+    {
+        "Month": "Feb 2024",
+        "Price": "51,769.31",
+        "Change": "-5.64%"
+    },
+    {
+        "Month": "Mar 2024",
+        "Price": "50,877.55",
+        "Change": "-1.72%"
+    },
+    {
+        "Month": "Apr 2024",
+        "Price": "49,375.36",
+        "Change": "-2.95%"
+    }
+]
